@@ -1,0 +1,165 @@
+.logo img {
+	height: 6rem;
+	padding-top: 1rem;
+}
+
+header {
+	background-color: #fff;
+	padding-top: .75rem;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+	font-weight: 200;
+	font-size: 16px;
+	color: #000;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 200;
+	font-size: 25px;
+	color: #000;
+}
+
+.menu li a {
+    padding: 1rem 8rem;
+    font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+    color: #4A5448;
+}
+
+.intro {
+	padding-top: 8rem;
+	padding-bottom: 8rem;
+	background-image: url(../img/woodland-trail.jpg);
+	width: 100%;
+}
+
+.intro h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+	color: #fff;
+}
+
+.intro p {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #fff;
+}
+
+.button {
+
+}
+
+.book h2 {
+	margin-top: 1.5rem;
+	padding-bottom: .5rem;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+	font-size: 28px;
+}
+
+.date-picker {
+	margin-top: 0rem;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+}
+
+body {
+	background-color: #fff;
+}
+
+.services {
+	margin-top: 1rem;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.services h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 200;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 1rem;
+}
+
+.services .grid-x {
+	padding-left: .5rem;
+	padding-right: .5rem;
+}
+
+.services, .cell {
+
+}
+
+footer {
+	background-color: #4A5448;
+	margin-top: 3rem;
+}
+
+footer p {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #fff;
+	margin-top: 3rem;
+	margin-bottom: 2rem;
+}
+
+
+
+.features {
+padding: 4rem 0;
+}
+
+.features .grid-x {
+background-color: #BDC1BD;
+}
+
+.content {
+padding: 3rem;
+}
+
+.content h2 {
+font-family: 'Montserrat', sans-serif;
+color: #000;
+font-weight: 200;
+font-size: 30px;
+}
+
+.content .button {
+
+}
+
+.content p {
+font-family: 'Montserrat', sans-serif;
+font-weight: 400;
+font-size: 16px;
+color: #000;
+margin-bottom: 1.5rem;
+}
+
+
+
+
+
+/* Demo Styles */
+
+.docs-example-orbit-slide {
+  padding: 2rem 4rem;
+  color: #000;
+}
+
+  .orbit-slide {
+  	font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #BDC1BD;
+  }
+
